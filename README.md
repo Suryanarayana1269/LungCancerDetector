@@ -1,4 +1,4 @@
-### Lung Cancer Detector
+# Lung Cancer Detector
 
 ## Project Overview
 The Lung Cancer Detector is a machine learning project aimed at early diagnosis of lung cancer by analyzing CT scan images using a Convolutional Neural Network (CNN) model. This project automates the process of distinguishing between malignant and normal lung scans, aiding healthcare professionals in making quick and accurate decisions.
